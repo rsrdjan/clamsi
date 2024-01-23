@@ -16,4 +16,4 @@ Usage: C:\test\clamsi.exe -[p/f/s] TARGET [ADDR_RANGE]
         ADDR_RANGE: -p [offset length]
         EXAMPLE:        C:\test\clamsi.exe -f C:\Windows\System32\calc.exe
                         C:\test\clamsi.exe -s "Hello World"
-                        C:\test\clamsi.exe -p 1234 0x7ff6990b0000 0x7ff699151000```
+                        C:\test\clamsi.exe -p 1234 0x7ff6990b0000 0x7ff699151000
